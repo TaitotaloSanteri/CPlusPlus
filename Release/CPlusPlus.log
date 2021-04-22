@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Projektit\CPlusPlus\Main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Projektit\CPlusPlus\Main.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 97 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CPlusPlus.vcxproj -> C:\Projektit\CPlusPlus\Release\CPlusPlus.exe
