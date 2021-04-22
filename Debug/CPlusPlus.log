@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Projektit\CPlusPlus\Main.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Projektit\CPlusPlus\Main.cpp(31,6): error C2374: 'numero': redefinition; multiple initialization
+C:\Projektit\CPlusPlus\Main.cpp(30): message : see declaration of 'numero'
+C:\Projektit\CPlusPlus\Main.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
